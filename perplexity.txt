@@ -1,0 +1,12 @@
+GPT2-baseline articles 72.6739
+GPT2-finetunned_on_articles articles 13.3295
+GPT2-finetunned_on_popsongs articles 106.2347
+GPT2-baseline popsongs 51.7010
+GPT2-finetunned_on_articles popsongs 96.1217
+GPT2-finetunned_on_popsongs popsongs 16.0382
+EleutherAI-baseline articles 49.4853
+EleutherAI-finetunned_on_articles articles 1.1904
+EleutherAI-finetunned_on_popsongs articles 424.4113
+EleutherAI-baseline popsongs 37.9043
+EleutherAI-finetunned_on_articles popsongs 432.7373
+EleutherAI-finetunned_on_popsongs popsongs 1.1396

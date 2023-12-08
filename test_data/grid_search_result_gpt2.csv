@@ -1,0 +1,39 @@
+﻿num_beams,top_k,top_p,text
+1,50,0.5,This is a  very interesting issue.  I've been trying to get to know
+1,50,0.95,This is a  frenzied shanty  in  the same area.
+1,50,0.99,"This is a  incredibly small sample size to do a proper test using, it does not"
+1,100,0.5,"This is a  challenge  to make it to the top.
+If you have"
+1,100,0.95,This is a  problem in that we don't really have time for a bunch of data flows
+1,100,0.99,This is a  subordinate that you just put on a piece of paper or something such as
+1,500,0.5,"This is a  interesting position, as I'm sure you know that there is"
+1,500,0.95,This is a  problem where my data needs to be cached between the request and the response after
+1,500,0.99,This is a  indation'I guess that hasn't been heard'And let me get
+3,50,0.5,This is a  problem  for me.  I don't know if it's
+3,50,0.95,"This is a vernacular that is very similar to English, but with a slightly different grammar."
+3,50,0.99,"This is a  big deal, but it's not what it used to be.  "
+3,100,0.5,"This is a  proper way to describe it.
+In this post, I will show"
+3,100,0.95,This is a  difference between the two  methods. The  methods
+3,100,0.99,This is a  challenge  for me. I've been doing a lot of research
+3,500,0.5,This is a  problem that has been plaguing me for a long time.  I
+3,500,0.95,"This is a  very interesting question. 
+Why would you want to know? "
+3,500,0.99,"This is a  statement of fact that I have no problem with, but I have no problem"
+20,50,0.5,This is a  problem.  I don't know how to fix it.  
+20,50,0.95,"This is a vernacular that has been around for a very long time.
+
+It's"
+20,50,0.99,"This is a vernacular version of what I've been saying for a while now.
+
+"
+20,100,0.5,This is a  challenge  that I've been working on for a while now.
+20,100,0.95,This is a vernacular of the English language. It is used to refer to the English language
+20,100,0.99,This is a vernacular that has been used for thousands of years. It has been used for
+20,500,0.5,This is a  problem that has been going on for a long time.  It's
+20,500,0.95,"This is a vernacular that has been used for thousands of years.
+
+In fact,"
+20,500,0.99,"This is a vernacular word, but I don't know how to pronounce it.
+
+"
